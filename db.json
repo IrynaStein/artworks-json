@@ -9,7 +9,8 @@
           "medium": "print",
           "image": "https://live.staticflickr.com/65535/51282559789_8ab7847891_h.jpg",
           "featured": false,
-          "category": "pop-culture"
+          "category": "pop-culture",
+          "date created": 2020
       },
       {
           "id": 2,
@@ -20,7 +21,8 @@
           "medium": "print",
           "image": "https://live.staticflickr.com/65535/51282850895_cc9cf87919_h.jpg",
           "featured": false,
-          "category": "pop-culture"
+          "category": "pop-culture",
+          "date created": 2020
       },
       {
           "id": 3,
@@ -31,7 +33,8 @@
           "medium": "print",
           "image": "https://live.staticflickr.com/65535/51281828806_a120592187_h.jpg",
           "featured": false,
-          "category": "pop-culture"
+          "category": "pop-culture",
+          "date created": 2020
       },
       {
           "id": 4,
@@ -42,7 +45,8 @@
           "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
           "image": "https://live.staticflickr.com/65535/51282850570_6773adf006_h.jpg",
           "featured": true,
-          "category": "pop-culture"
+          "category": "pop-culture",
+          "date created": 2021
       },
       {
           "id": 5,
@@ -53,18 +57,20 @@
           "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
           "image": "https://live.staticflickr.com/65535/51281828786_5dabf74c0b_h.jpg",
           "featured": true,
-          "category": "flowers"
+          "category": "flowers",
+          "date created": 2019
       },
       {
           "id": 6,
           "title": "Humble Prayer",
-          "edition": 25,
+          "edition": 10,
           "likes": 45,
           "price": 45,
           "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
           "image": "https://live.staticflickr.com/65535/51282559649_7576cb3002_h.jpg",
           "featured": true,
-          "category": "yoga"
+          "category": "yoga",
+          "date created": 2020
       },
       {
         "id": 7,
@@ -75,7 +81,80 @@
         "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
         "image": "https://live.staticflickr.com/65535/51282003743_4672e3a786_h.jpg",
         "featured": false,
-        "category": "pop-culture"
+        "category": "pop-culture",
+        "date created": 2020
+    },
+    {
+        "id": 8,
+        "title": "Wonder Woman",
+        "edition": 5,
+        "likes": 206,
+        "price": 100,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51284079389_1f2bb203d5_h.jpg",
+        "featured": false,
+        "category": "superheroes",
+        "date created": 2021
+    },
+    {
+        "id": 9,
+        "title": "Super Man",
+        "edition": 5,
+        "likes": 200,
+        "price": 100,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51283528543_45bb6bdf88_h.jpg",
+        "featured": false,
+        "category": "superheroes",
+        "date created": 2021
+    },
+    {
+        "id": 10,
+        "title": "Minnie Mouse",
+        "edition": 5,
+        "likes": 78,
+        "price": 50,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51284079574_502937e517_h.jpg",
+        "featured": false,
+        "category": "pop-culture",
+        "date created": 2020
+    },
+    {
+        "id": 11,
+        "title": "Mickey Mouse",
+        "edition": 5,
+        "likes": 89,
+        "price": 50,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51284378510_1d7026d978_h.jpg",
+        "featured": false,
+        "category": "pop-culture",
+        "date created": 2020
+    },
+    {
+        "id": 12,
+        "title": "Lily of the Valley",
+        "edition": 10,
+        "likes": 150,
+        "price": 45,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51283355646_c9c86d8963_h.jpg",
+        "featured": false,
+        "category": "flowers",
+        "date created": 2019
+    },
+    {
+        "id": 12,
+        "title": "Blue Iris",
+        "edition": 10,
+        "likes": 170,
+        "price": 45,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51284079754_f5fb649d28_h.jpg",
+        "featured": false,
+        "category": "flowers",
+        "date created": 2019
     }
    
   ]
