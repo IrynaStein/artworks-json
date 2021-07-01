@@ -8,7 +8,8 @@
           "price": 45,
           "medium": "print",
           "image": "https://live.staticflickr.com/65535/51282559789_8ab7847891_h.jpg",
-          "featured": false
+          "featured": false,
+          "category": "pop-culture"
       },
       {
           "id": 2,
@@ -18,7 +19,8 @@
           "price": 45,
           "medium": "print",
           "image": "https://live.staticflickr.com/65535/51282850895_cc9cf87919_h.jpg",
-          "featured": false
+          "featured": false,
+          "category": "pop-culture"
       },
       {
           "id": 3,
@@ -28,7 +30,8 @@
           "price": 45,
           "medium": "print",
           "image": "https://live.staticflickr.com/65535/51281828806_a120592187_h.jpg",
-          "featured": false
+          "featured": false,
+          "category": "pop-culture"
       },
       {
           "id": 4,
@@ -38,7 +41,8 @@
           "price": 45,
           "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
           "image": "https://live.staticflickr.com/65535/51282850570_6773adf006_h.jpg",
-          "featured": true
+          "featured": true,
+          "category": "pop-culture"
       },
       {
           "id": 5,
@@ -48,7 +52,8 @@
           "price": 45,
           "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
           "image": "https://live.staticflickr.com/65535/51281828786_5dabf74c0b_h.jpg",
-          "featured": true
+          "featured": true,
+          "category": "flowers"
       },
       {
           "id": 6,
@@ -58,7 +63,8 @@
           "price": 45,
           "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
           "image": "https://live.staticflickr.com/65535/51282559649_7576cb3002_h.jpg",
-          "featured": true
+          "featured": true,
+          "category": "yoga"
       },
       {
         "id": 7,
@@ -68,7 +74,8 @@
         "price": 45,
         "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
         "image": "https://live.staticflickr.com/65535/51282003743_4672e3a786_h.jpg",
-        "featured": false
+        "featured": false,
+        "category": "pop-culture"
     }
    
   ]
