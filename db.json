@@ -1,103 +1,7 @@
 {
   "artworks": [
-      {
-          "id": 1,
-          "title": "Blue Mushroom",
-          "edition": 25,
-          "likes": 17,
-          "price": 45,
-          "medium": "print",
-          "image": "https://live.staticflickr.com/65535/51282559789_8ab7847891_h.jpg",
-          "featured": false,
-          "category": "pop-culture",
-          "date created": 2020
-      },
-      {
-          "id": 2,
-          "title": "Orange Mushroom",
-          "edition": 25,
-          "likes": 126,
-          "price": 45,
-          "medium": "print",
-          "image": "https://live.staticflickr.com/65535/51282850895_cc9cf87919_h.jpg",
-          "featured": false,
-          "category": "pop-culture",
-          "date created": 2020
-      },
-      {
-          "id": 3,
-          "title": "Purple Mushroom",
-          "edition": 25,
-          "likes": 45,
-          "price": 45,
-          "medium": "print",
-          "image": "https://live.staticflickr.com/65535/51281828806_a120592187_h.jpg",
-          "featured": false,
-          "category": "pop-culture",
-          "date created": 2020
-      },
-      {
-          "id": 4,
-          "title": "Kirby",
-          "edition": 5,
-          "likes": 60,
-          "price": 45,
-          "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
-          "image": "https://live.staticflickr.com/65535/51282850570_6773adf006_h.jpg",
-          "featured": true,
-          "category": "pop-culture",
-          "date created": 2021
-      },
-      {
-          "id": 5,
-          "title": "California Poppies",
-          "edition": 10,
-          "likes": 45,
-          "price": 45,
-          "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
-          "image": "https://live.staticflickr.com/65535/51281828786_5dabf74c0b_h.jpg",
-          "featured": true,
-          "category": "flowers",
-          "date created": 2019
-      },
-      {
-          "id": 6,
-          "title": "Humble Prayer",
-          "edition": 10,
-          "likes": 45,
-          "price": 45,
-          "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
-          "image": "https://live.staticflickr.com/65535/51282559649_7576cb3002_h.jpg",
-          "featured": true,
-          "category": "yoga",
-          "date created": 2020
-      },
-      {
-        "id": 7,
-        "title": "Mario",
-        "edition": 25,
-        "likes": 17,
-        "price": 45,
-        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
-        "image": "https://live.staticflickr.com/65535/51282003743_4672e3a786_h.jpg",
-        "featured": false,
-        "category": "pop-culture",
-        "date created": 2020
-    },
     {
-        "id": 8,
-        "title": "Wonder Woman",
-        "edition": 5,
-        "likes": 206,
-        "price": 100,
-        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
-        "image": "https://live.staticflickr.com/65535/51284079389_1f2bb203d5_h.jpg",
-        "featured": false,
-        "category": "superheroes",
-        "date created": 2021
-    },
-    {
-        "id": 9,
+        "id": 1,
         "title": "Super Man",
         "edition": 5,
         "likes": 200,
@@ -109,7 +13,19 @@
         "date created": 2021
     },
     {
-        "id": 10,
+        "id": 2,
+        "title": "Wonder Woman",
+        "edition": 5,
+        "likes": 206,
+        "price": 100,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51284079389_1f2bb203d5_h.jpg",
+        "featured": false,
+        "category": "superheroes",
+        "date created": 2021
+    },
+    {
+        "id": 3,
         "title": "Minnie Mouse",
         "edition": 5,
         "likes": 78,
@@ -121,7 +37,7 @@
         "date created": 2020
     },
     {
-        "id": 11,
+        "id": 4,
         "title": "Mickey Mouse",
         "edition": 5,
         "likes": 89,
@@ -133,7 +49,7 @@
         "date created": 2020
     },
     {
-        "id": 12,
+        "id": 5,
         "title": "Lily of the Valley",
         "edition": 10,
         "likes": 150,
@@ -145,7 +61,7 @@
         "date created": 2019
     },
     {
-        "id": 13,
+        "id": 6,
         "title": "Blue Iris",
         "edition": 10,
         "likes": 170,
@@ -155,7 +71,103 @@
         "featured": false,
         "category": "flowers",
         "date created": 2019
+    },
+    {
+        "id": 7,
+        "title": "Rainy Day in Venice, CA",
+        "edition": 5,
+        "likes": 76,
+        "price": 45,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51281087712_cb843deaf5_h.jpg",
+        "featured": true,
+        "category": "abstract",
+        "date created": 2020
+    },
+    {
+        "id": 8,
+        "title": "Mario",
+        "edition": 25,
+        "likes": 17,
+        "price": 45,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51282003743_4672e3a786_h.jpg",
+        "featured": false,
+        "category": "pop-culture",
+        "date created": 2020
+    },
+    {
+        "id": 9,
+        "title": "Kirby",
+        "edition": 5,
+        "likes": 60,
+        "price": 45,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51282850570_6773adf006_h.jpg",
+        "featured": true,
+        "category": "pop-culture",
+        "date created": 2021
+    },
+    {
+        "id": 10,
+        "title": "California Poppies",
+        "edition": 10,
+        "likes": 45,
+        "price": 45,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51281828786_5dabf74c0b_h.jpg",
+        "featured": true,
+        "category": "flowers",
+        "date created": 2019
+    },
+    {
+        "id": 11,
+        "title": "Humble Prayer",
+        "edition": 10,
+        "likes": 45,
+        "price": 45,
+        "medium": "Multicolor digital print. Produced on archival, acid-free heavy weight paper. Hand signed and numbered in lower right corner. Certificate of authenticity. Unframed",
+        "image": "https://live.staticflickr.com/65535/51282559649_7576cb3002_h.jpg",
+        "featured": true,
+        "category": "yoga",
+        "date created": 2020
     }
-   
+      {
+          "id": 12,
+          "title": "Blue Mushroom",
+          "edition": 25,
+          "likes": 17,
+          "price": 45,
+          "medium": "print",
+          "image": "https://live.staticflickr.com/65535/51282559789_8ab7847891_h.jpg",
+          "featured": false,
+          "category": "pop-culture",
+          "date created": 2020
+      },
+      {
+          "id": 13,
+          "title": "Orange Mushroom",
+          "edition": 25,
+          "likes": 126,
+          "price": 45,
+          "medium": "print",
+          "image": "https://live.staticflickr.com/65535/51282850895_cc9cf87919_h.jpg",
+          "featured": false,
+          "category": "pop-culture",
+          "date created": 2020
+      },
+      {
+          "id": 14,
+          "title": "Purple Mushroom",
+          "edition": 25,
+          "likes": 45,
+          "price": 45,
+          "medium": "print",
+          "image": "https://live.staticflickr.com/65535/51281828806_a120592187_h.jpg",
+          "featured": false,
+          "category": "pop-culture",
+          "date created": 2020
+      }
   ]
 }
+
